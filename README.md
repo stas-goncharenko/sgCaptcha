@@ -72,3 +72,6 @@ if (checkCaptcha($key, $code)) {
   // Ops! Capthca is not correct!;
 }
 ```
+
+## P.S.
+Good luck with the integration 
