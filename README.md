@@ -49,7 +49,7 @@ For example:
 ```bash
 <?php
 // ...
-// Some function where you check and send data from form
+// code where you check and send data from form
 
 require_once('MY_PATCH_TO_LIBS/SG_Captcha.php');
 
