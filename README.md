@@ -1,4 +1,4 @@
-sgCaptcha
+sgCaptchaApi
 ==========
 
 The SG_Captcha PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots.
