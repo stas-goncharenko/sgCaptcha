@@ -4,10 +4,10 @@ SG_CAPTCHA
 The SG_CAPTCHA PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots on you site.
 
 Quick Start
-========================
+-----------
 
 Client Side (How to make the CAPTCHA image show up)
-===================================================
+---------------------------------------------------
 
 require_once('libs/SG_Captcha.php');
 
@@ -30,7 +30,7 @@ For example:
 </html>
 
 Server Side (How to test if the user entered the right answer)
-==============================================================
+--------------------------------------------------------------
 
 <?php
 // ...
