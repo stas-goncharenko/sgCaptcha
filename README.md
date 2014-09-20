@@ -1,4 +1,4 @@
-SG_CAPTCHA
+sgCaptcha
 ==========
 
 The SG_Captcha PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots.
@@ -10,14 +10,14 @@ The SG_Captcha PHP Library provides a simple way to place a CAPTCHA on your PHP 
 
 Captcha will be looking like this:
 
-![Bower version](http://goncharenko.biz/img/libs/SG_Captcha/v1/captcha.png)
+![Bower version](http://goncharenko.biz/img/libs/sgCaptcha/v1/captcha.png)
 
 
 ## Quick start
 
 Four quick start options are available:
 
-- [Download the latest release](https://github.com/stas-goncharenko/SG_CAPTCHA/archive/master.zip) or clone the repo: `https://github.com/stas-goncharenko/SG_CAPTCHA.git`.
+- [Download the latest release](https://github.com/stas-goncharenko/sgCaptcha/archive/master.zip) or clone the repo: `https://github.com/stas-goncharenko/sgCaptcha.git`.
 - add captcha on clien side
 - add captcha on server side where you will check client captcha code
 
@@ -27,7 +27,7 @@ Client Side (How to show CAPTCHA on your site)
 
 ```bash
 
-require_once('MY_PATCH_TO_LIBS/SG_Captcha.php');
+require_once('MY_PATCH_TO_LIBS/sgCaptcha.php');
 
 $captchaHtml = getCaptchaHtml();
 
@@ -41,7 +41,7 @@ For example:
   <body>
     <form method="POST" action="MY_CHECKER_FILE.php">
         <?php 
-          require_once('MY_PATCH_TO_LIBS/SG_Captcha.php');
+          require_once('MY_PATCH_TO_LIBS/sgCaptcha.php');
           $captchaHtml = getCaptchaHtml();
           echo $captchaHtml;
         ;?>
@@ -62,7 +62,7 @@ For example:
 // ...
 // code where you check and send data from form
 
-require_once('MY_PATCH_TO_LIBS/SG_Captcha.php');
+require_once('MY_PATCH_TO_LIBS/sgCaptcha.php');
 
 $key = $_POST['key'];
 $code = $_POST['code'];
