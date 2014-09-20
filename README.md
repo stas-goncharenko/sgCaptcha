@@ -10,7 +10,7 @@ The SG_Captcha PHP Library provides a simple way to place a CAPTCHA on your PHP 
 
 Captcha will be looking like this:
 
-![Bower version](https://github.com/stas-goncharenko/SG_CAPTCHA/blob/master/img/captcha.png)
+![Bower version](http://goncharenko.biz/img/libs/SG_Captcha/v1/captcha.png)
 
 
 ## Quick start
