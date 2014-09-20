@@ -19,7 +19,8 @@ Demo you will show [here](http://goncharenko.biz/sg-captcha-demo)
 
 Four quick start options are available:
 
-- [Download the latest release](https://github.com/stas-goncharenko/sgCaptcha/archive/master.zip) or clone the repo: `https://github.com/stas-goncharenko/sgCaptcha.git`.
+- [Download the latest release](https://github.com/stas-goncharenko/sgCaptcha/archive/master.zip) 
+or clone the repo: `https://github.com/stas-goncharenko/sgCaptcha.git`.
 - add captcha on clien side
 - add captcha on server side where you will check client captcha code
 
