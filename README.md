@@ -12,6 +12,7 @@ Captcha will be looking like this:
 
 ![Bower version](http://goncharenko.biz/img/libs/sgCaptcha/v1/captcha.png)
 
+Demo you will show [here](http://goncharenko.biz/sg-captcha-demo)
 
 ## Quick start
 
@@ -23,7 +24,7 @@ Four quick start options are available:
 
 
 Client Side (How to show CAPTCHA on your site)
----------------------------------------------------
+----------------------------------------------
 
 ```bash
 
