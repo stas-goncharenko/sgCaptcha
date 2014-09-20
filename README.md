@@ -50,8 +50,6 @@ require_once('MY_PATCH_TO_LIBS/SG_Captcha.php');
 $key = $_POST['key'];
 $code = $_POST['code'];
 
-require_once('libs/SG_Captcha.php');
-
 if (checkCaptcha($key, $code)) {
   // Congratulation! Capthca is correct!;
 } else {
