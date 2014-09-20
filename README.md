@@ -1,11 +1,11 @@
 SG_CAPTCHA
 ==========
 
-SG_CAPTCHA will be looking like this:
+The SG_CAPTCHA PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots.
+Captcha will be looking like this:
 
 ![Bower version](https://github.com/stas-goncharenko/SG_CAPTCHA/blob/master/img/captcha.png)
 
-The SG_CAPTCHA PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots.
 
 Quick Start
 ==========
