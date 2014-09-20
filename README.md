@@ -40,6 +40,8 @@ For example:
 Server Side (How to test if the user entered the right answer)
 --------------------------------------------------------------
 
+For example:
+
 ```bash
 <?php
 // ...
