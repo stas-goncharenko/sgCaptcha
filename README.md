@@ -3,7 +3,7 @@ sgCaptcha
 
 The SG_Captcha PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots.
 - light library (only 1.1 kb)
-- fast generate captcha images ~ 0.135 sec
+- generate captcha html block ~ 0.135 sec
 - use of third party api
 - good protected captcha code
 - very usy to integrate
