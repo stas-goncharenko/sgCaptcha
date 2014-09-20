@@ -5,7 +5,7 @@ The SG_Captcha PHP Library provides a simple way to place a CAPTCHA on your PHP 
 - light library (only 1.1 kb)
 - fast generate captcha images ~ 0.135 sec
 - use of third party api
-- good protected code
+- good protected captcha code
 - very usy to integrate
 
 Captcha will be looking like this:
