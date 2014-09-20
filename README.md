@@ -12,7 +12,7 @@ Captcha will be looking like this:
 
 ![Bower version](http://goncharenko.biz/img/libs/sgCaptcha/v1/captcha.png)
 
-## Quick start
+## Demo
 
 Demo you will show [here](http://goncharenko.biz/sg-captcha-demo)
 
