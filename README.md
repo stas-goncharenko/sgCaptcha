@@ -1,5 +1,7 @@
 SG_CAPTCHA
-![Bower version](https://badge.fury.io/bo/bootstrap.svg)
+==========
+
+![Bower version](https://github.com/stas-goncharenko/SG_CAPTCHA/blob/master/img/captcha.png)
 
 The SG_CAPTCHA PHP Library provides a simple way to place a CAPTCHA on your PHP website, helping you stop bots.
 
