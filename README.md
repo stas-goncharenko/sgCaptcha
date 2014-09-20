@@ -11,8 +11,7 @@ Captcha will be looking like this:
 
 Four quick start options are available:
 
-- [Download the latest release](https://github.com/stas-goncharenko/SG_CAPTCHA/archive/master.zip).
-Or Clone the repo: `https://github.com/stas-goncharenko/SG_CAPTCHA.git`.
+- [Download the latest release](https://github.com/stas-goncharenko/SG_CAPTCHA/archive/master.zip) or clone the repo: `https://github.com/stas-goncharenko/SG_CAPTCHA.git`.
 - add captcha on clien side
 - add captcha on server side where you will check client captcha code
 
