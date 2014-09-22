@@ -31,9 +31,8 @@ function checkCaptcha ($key, $code) {
             'content' => $vars,
         )
     );
-    $context  = stream_context_create($options);  // создаём контекст потока
-    $response = file_get_contents(CAPTCHA_API_SERVER, false, $context); //отправляем запрос
-
+    $context  = stream_context_create($options);  // create a stream context
+    $response = file_get_contents(CAPTCHA_API_SERVER, false, $context); // send request
     $response = json_decode($response);
 
     if (!isset($response->status) || (isset($response->status) && $response->status != 'success')) {
