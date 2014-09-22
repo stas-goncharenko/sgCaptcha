@@ -6,7 +6,7 @@ The sgCaptcha PHP Library provides a simple way to place a CAPTCHA on your PHP w
 - generate captcha html block ~ 0.135 sec
 - check captcha code ~ 0.155 sec
 - good protected captcha code
-- usy to integrate
+- easy to integrate
 
 Captcha will be looking like this:
 
