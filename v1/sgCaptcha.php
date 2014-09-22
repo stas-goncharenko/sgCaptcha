@@ -31,7 +31,7 @@ function checkCaptcha ($key, $code) {
             'content' => $vars,
         )
     );
-    $context  = stream_context_create($options);  // create a stream context
+    $context  = stream_context_create($options);
     $response = file_get_contents(CAPTCHA_API_SERVER, false, $context); // send request
     $response = json_decode($response);
 
