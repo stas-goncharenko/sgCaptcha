@@ -14,7 +14,7 @@ Captcha will be looking like this:
 
 ## Demo
 
-Demo you will show [here](http://goncharenko.biz/sg-captcha-demo)
+Demo you will show [here](http://speakhunter.ru/test-captcha.php)
 
 ## Quick start
 
